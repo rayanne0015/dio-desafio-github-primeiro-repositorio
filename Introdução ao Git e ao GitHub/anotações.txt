@@ -4,4 +4,4 @@ Comandos básicos
 cd: muda de diretório 
 dir: lista os repositórios
 mkdir: cria diretórios
-del/rmdir: deleta
+del/rmdir: deletar
